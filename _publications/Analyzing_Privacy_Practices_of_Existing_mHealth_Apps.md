@@ -16,6 +16,6 @@ and deletion practices. We present our findings from the analysis of privacy pol
 of mHealth apps, and propose the need for a usable health data dashboard for users to better understand and
 control how their health data is collected, used, shared and deleted.
 
-[Download paper here](http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
+[PDF](http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
 
 Recommended citation: A. Prasad, M. Clark, H. Nguyen, R. Ruiz, and E. Xiao, "Analyzing Privacy Practices of Existing mHealth Apps," The 13th International Conference on Health Informatics (HEALTHINF), Feb. 2020, p. 563-570. doi: 10.5220/0009059605630570.
