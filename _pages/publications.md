@@ -5,6 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+2020
+===== 
+
+Moving Recursion Out of the RDBMS for Transactional Graph Workloads
+===
+
+This paper presents work in progress that focuses on querying transactional graph data that is stored in a relational database system (RDBMS). We focus on transactional workloads where there are frequent insert and update operations. Although these types of workloads are common in social network, scientific, and business applications, much of the prior work has focused on graph analytics workloads where there is little to no change to the data over time. We introduce an approach that combines simple database queries with parallel programming, and compare our approach to the recursive SQL operations that are known to have poor performance. Our initial experiments and results provide guidance for the future directions of this project where we will refine the parallel programing approach and structure of the experiment in order to better compare these two approaches.
+
+C.F. Reilly and M. Clark, "Moving Recursion Out of the RDBMS for Transactional Graph Workloads," The 11th IEEE Ubiquitous Computing, Electronics Mobile Communication Conference (UEMCON), Oct. 2020, p. 0371-0376. doi: 10.1109/UEMCON51285.2020.9298122.
+
+[Download PDF](http://mattc1745.github.io/files/Moving_Recursion_Out_of_the_RDBMS_for_Transactional_Graph_Workloads.pdf)
+
+
+Analyzing Privacy Practices of Existing mHealth Apps
+===
+
+Given students’ reliance on smartphones and the popularity of mobile health apps, care should be taken to protectstudents’ sensitive health information; one of the major potential risks of the disclosure of this data could be discrimination by insurance companies and employers. We conducted an exploratory study of 197 existing smartphone apps, which included 98 mobile health apps, to study their data collection, usage, sharing, storage and deletion practices. We present our findings from the analysis of privacy policies and permission requests of mHealth apps, and propose the need for a usable health data dashboard for users to better understand and control how their health data is collected, used, shared and deleted.
+
+A. Prasad, M. Clark, H. Nguyen, R. Ruiz, and E. Xiao, "Analyzing Privacy Practices of Existing mHealth Apps," The 13th International Conference on Health Informatics (HEALTHINF), Feb. 2020, p. 563-570. doi: 10.5220/0009059605630570.
+
+[Download PDF](http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
+
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -13,4 +37,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
