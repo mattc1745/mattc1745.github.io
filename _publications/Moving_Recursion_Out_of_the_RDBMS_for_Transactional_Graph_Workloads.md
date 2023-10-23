@@ -7,7 +7,7 @@ excerpt: 'This paper presents work in progress that focuses on querying transact
 date: October, 2020
 venue: 'The 11th IEEE Ubiquitous Computing, Electronics Mobile Communication Conference (UEMCON)'
 paperurl: 
-citation: 'C.F. Reilly and M. Clark, "Moving Recursion Out of the RDBMS for Transactional Graph Workloads," The 11th IEEE Ubiquitous Computing, Electronics Mobile Communication Conference (UEMCON), Oct. 2020, p. 0371-0376. doi: 10.1109/UEMCON51285.2020.9298122'
+citation: 'C.F. Reilly and M. Clark, "Moving Recursion Out of the RDBMS for Transactional Graph Workloads," The 11th IEEE Ubiquitous Computing, Electronics Mobile Communication Conference (UEMCON), Oct. 2020, p. 0371-0376. doi: 10.1109/UEMCON51285.2020.9298122.'
 ---
 
 Abstract

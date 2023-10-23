@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Privacy Practices of Existing mHealth Apps"
 collection: publications
-permalink: /publication/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps
+permalink: /publication/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf
 excerpt: 'Given students’ reliance on smartphones and the popularity of mobile health apps, care should be taken to protectstudents’ sensitive health information; one of the major potential risks of the disclosure of this data could be discrimination by insurance companies and employers. We conducted an exploratory study of 197 existing smartphone apps, which included 98 mobile health apps, to study their data collection, usage, sharing, storage and deletion practices. We present our findings from the analysis of privacy policies and permission requests of mHealth apps, and propose the need for a usable health data dashboard for users to better understand and control how their health data is collected, used, shared and deleted.'
 date: Febraury, 2020
 venue: 'The 13th Internaional Conference on Health Informatics (HEALTHINF)'
