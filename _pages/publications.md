@@ -8,7 +8,7 @@ author_profile: true
 2023
 =====
 
-Personalization in Circadian Rhythm-Based Event Scheduling [\[PDF\]](http://mattc1745.github.io/files/Personalization_in_Circadian_Rhythm-Based_Event_Scheduling.pdf)
+Personalization in Circadian Rhythm-Based Event Scheduling [\[PDF\]](/files/Personalization_in_Circadian_Rhythm-Based_Event_Scheduling.pdf)
 ---
 
 <span style="font-size:14px">
@@ -21,7 +21,7 @@ P. Sadekar, J. Baitinger, S. Conway, M. Clark, and A. Doryab, “Personalization
 2022
 =====
 
-Sounds of Health: Using Personalized Sonification Models to Communicate Health Information [\[PDF\]](http://mattc1745.github.io/files/Sounds_of_Health_Using_Personalized_Sonification_Models_to_Communicate_Health_Information.pdf)
+Sounds of Health: Using Personalized Sonification Models to Communicate Health Information [\[PDF\]](/files/Sounds_of_Health_Using_Personalized_Sonification_Models_to_Communicate_Health_Information.pdf)
 ---
 
 <span style="font-size:14px">
@@ -34,7 +34,7 @@ M. Clark and A. Doryab, “Sounds of Health: Using Personalized Sonification Mod
 2020
 ===== 
 
-Moving Recursion Out of the RDBMS for Transactional Graph Workloads [\[PDF\]](http://mattc1745.github.io/files/Moving_Recursion_Out_of_the_RDBMS_for_Transactional_Graph_Workloads.pdf)
+Moving Recursion Out of the RDBMS for Transactional Graph Workloads [\[PDF\]](/files/Moving_Recursion_Out_of_the_RDBMS_for_Transactional_Graph_Workloads.pdf)
 ---
 
 <span style="font-size:14px">
@@ -44,7 +44,7 @@ This paper presents work in progress that focuses on querying transactional grap
 C.F. Reilly and M. Clark, "Moving Recursion Out of the RDBMS for Transactional Graph Workloads," The 11th IEEE Ubiquitous Computing, Electronics Mobile Communication Conference (UEMCON), Oct. 2020, p. 0371-0376. doi: 10.1109/UEMCON51285.2020.9298122.
 
 
-Analyzing Privacy Practices of Existing mHealth Apps [\[PDF\]](http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
+Analyzing Privacy Practices of Existing mHealth Apps [\[PDF\]](/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
 ---
 
 <span style="font-size:14px">
