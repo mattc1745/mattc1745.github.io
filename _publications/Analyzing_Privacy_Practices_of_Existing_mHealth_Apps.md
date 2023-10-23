@@ -3,9 +3,9 @@ title: "Analyzing Privacy Practices of Existing mHealth Apps"
 collection: publications
 permalink: /publication/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf'
+date: Febraury, 2020
+venue: 'The 13th Internaional Conference on Health Informatics (HEALTHINF)'
+paperurl: 
 citation: 'A. Prasad, M. Clark, H. Nguyen, R. Ruiz, and E. Xiao, "Analyzing Privacy Practices of Existing mHealth Apps," The 13th International Conference on Health Informatics (HEALTHINF), Feb. 2020, p. 563-570. doi: 10.5220/0009059605630570.'
 ---
 Given students’ reliance on smartphones and the popularity of mobile health apps, care should be taken to protect
@@ -16,6 +16,6 @@ and deletion practices. We present our findings from the analysis of privacy pol
 of mHealth apps, and propose the need for a usable health data dashboard for users to better understand and
 control how their health data is collected, used, shared and deleted.
 
-[PDF](http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
+[Download PDF](http://mattc1745.github.io/files/Analyzing_Privacy_Practices_of_Existing_mHealth_Apps.pdf)
 
 Recommended citation: A. Prasad, M. Clark, H. Nguyen, R. Ruiz, and E. Xiao, "Analyzing Privacy Practices of Existing mHealth Apps," The 13th International Conference on Health Informatics (HEALTHINF), Feb. 2020, p. 563-570. doi: 10.5220/0009059605630570.
