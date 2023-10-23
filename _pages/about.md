@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matt Clark"
+title: "Matthew Clark"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

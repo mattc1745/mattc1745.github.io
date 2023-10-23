@@ -4,5 +4,6 @@ main:
     url: /publications/  
  
   - title: "CV"
-    url: /cv/
+    url: http://mattc1745.github.io/files/Cirriculum_Vitae.pdf
+    # url: /cv/
    
