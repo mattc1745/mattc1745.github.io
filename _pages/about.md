@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-I am a Computer Science PhD Student at the University of Virginia advised by [Afsaneh Doryab](https://sites.google.com/view/afsanehdoryab/home?authuser=0), and a member of the [UVA Link Lab](https://engineering.virginia.edu/link-lab) and the [Human-AI Technology Lab](https://engineering.virginia.edu/human-ai-technology-lab-hai). I graduated Magna Cum Laude from Skidmore college in May 2021 with a Bachelor of Arts in Computer Science and a minor in Business. I earned my Masters of Computer Science from the University of Virginia in August 2023, and a certification in Cyber-Physical Systems from the UVA Link Lab in May 2023. 
+I am a Computer Science PhD Student at the University of Virginia advised by [Afsaneh Doryab](https://sites.google.com/view/afsanehdoryab/home?authuser=0), and a member of the [UVA Link Lab](https://engineering.virginia.edu/link-lab) and the [Human-AI Technology Lab](https://engineering.virginia.edu/human-ai-technology-lab-hai). I graduated Magna Cum Laude from Skidmore College in May 2021 with a Bachelor of Arts in Computer Science and a minor in Business. I earned my Masters of Computer Science from the University of Virginia in August 2023, and a certification in Cyber-Physical Systems from the UVA Link Lab in May 2023. 
 
 Outside of research, I am an avid hiker and collector of board games. I am also a member of UVA's Computer Science Graduate Student Group, serving as the committee's social chair from January 2022 through December 2023. 
 
