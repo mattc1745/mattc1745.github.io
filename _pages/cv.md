@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy in Computer Science, University of Virginia, Expected May 2026
+* Masters of Computer Science, University of Virginia, August 2023
+* Certification in Cyber-Physical Systems, University of Virginia, May 2023
+* Bachelor of Arts in Computer Science, Skidmore College, May 2021
 
 Work experience
 ======
